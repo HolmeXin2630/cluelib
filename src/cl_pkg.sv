@@ -30,7 +30,7 @@
 `ifndef CL_PKG_SV
 `define CL_PKG_SV
 
-`timescale 1ns/1ns
+
 
 //------------------------------------------------------------------------------
 // Package: cl
